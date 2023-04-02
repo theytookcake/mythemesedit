@@ -1051,7 +1051,7 @@ html {
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.5);
 
   /*
     Home Icon Image
